@@ -2,34 +2,12 @@ resourcePath: /Admin
 description: Admin API's
 apis:
 
-- path: /api/admins
-  operations:
-
-    - httpMethod: GET
-      summary: getAll_Admins
-      notes:  Manadatory Params  (For app - )
-      nickname: all_admins
-      consumes:
-        - application/json
-      parameters:
-
-      - name: body
-        dataType: body
-        defaultValue: '{}'
-        paramType: body
-        required: false
-        description:
-      responses:
-        200:
-         description: An array of keys
-
-
-- path: /api/admin
+- path: /api/admin_register
   operations:
 
     - httpMethod: POST
       summary: add_admin
-      notes:  Manadatory Params  (For app - emailId,userName,cellPhoneNumber,countryCode,password)
+      notes:  Manadatory Params  (For app - email,name,mobile,countryCode,password)
       nickname: add_admin
       consumes:
         - application/json
@@ -38,11 +16,11 @@ apis:
       - name: body
         dataType: body
         defaultValue: '{
-                          "emailId":"udit.kumawat@gmail.com",
-                          "userName":"admin",
-                          "cellPhoneNumber":"8989826236",
-                          "countryCode":"+91",
-                          "password":"qwerty"
+                          "email":"",
+                          "name":"",
+                          "mobile":"",
+                          "countryCode":"",
+                          "password":""
                         }'
         paramType: body
         required: false
@@ -50,4 +28,163 @@ apis:
       responses:
         200:
          description: An array of keys
+
+- path: /api/admin_login
+  operations:
+
+    - httpMethod: POST
+      summary: admin_login
+      notes:  Manadatory Params  (For app - email,password)
+      nickname: admin_login
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "email":"",
+                          "password":""
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys 
+
+- path: /api/admin_logout
+  operations:
+
+    - httpMethod: POST
+      summary: admin_logout
+      notes:  Manadatory Params  (For app - accessToken)
+      nickname: admin_logout
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "accessToken":""
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys 
+
+- path: /api/admin_add_product_category
+  operations:
+
+    - httpMethod: POST
+      summary: admin_add_product_category
+      notes:  Manadatory Params  (For app - accessToken,name)
+      nickname: admin_add_product_category
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "accessToken":"",
+                          "name":""
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/admin_add_product_brand
+  operations:
+
+    - httpMethod: POST
+      summary: admin_add_product_brand
+      notes:  Manadatory Params  (For app - accessToken,name)
+      nickname: admin_add_product_brand
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "accessToken":"",
+                          "name":""
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/admin_add_product
+  operations:
+
+    - httpMethod: POST
+      summary: admin_add_product
+      notes:  Manadatory Params  (For app - accessToken,productCategory,productBrand,name,quantity,price)
+      nickname: admin_add_product
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "accessToken":"",
+                          "productCategory":"",
+                          "productBrand":"",
+                          "name":"",
+                          "quantity":"",
+                          "price":"",
+                          "isOfferAvailable":"",
+                          "offerPrice":"",
+                          "offerDescription":""
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/admin_edit_product
+  operations:
+
+    - httpMethod: POST
+      summary: admin_edit_product
+      notes:  Manadatory Params  (For app - accessToken,productId)
+      nickname: admin_edit_product
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "accessToken":"",
+                          "productId":"",
+                          "productCategory":"",
+                          "productBrand":"",
+                          "name":"",
+                          "quantity":"",
+                          "price":"",
+                          "isOfferAvailable":"",
+                          "offerPrice":"",
+                          "offerDescription":"",
+                          "isDeleted":""
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys                                                      
 

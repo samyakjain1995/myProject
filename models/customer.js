@@ -3,9 +3,11 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-let admin = new Schema({
+const APPCONFIG = require('../config/appConfig.js');
+
+let customer = new Schema({
     
-    email : {type:String},
+    emailId : {type:String},
     name : {type : String},
     mobile : {type:String},
     countryCode : {type:String},
@@ -15,4 +17,4 @@ let admin = new Schema({
     timestamps : true
 });
 
-module.exports = mongoose.model('admin',admin);
+module.exports = mongoose.model('customer',customer);

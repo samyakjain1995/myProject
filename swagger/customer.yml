@@ -1,0 +1,53 @@
+resourcePath: /Customer
+description: Customer API's
+apis:
+
+- path: /api/customer_get_all_products
+  operations:
+
+    - httpMethod: GET
+      summary: customer_get_all_products
+      notes:  Manadatory Params  (For app - skip,limit)
+      nickname: customer_get_all_products
+      consumes:
+        - application/jsons
+      parameters:
+
+      - name: skip
+        dataType: Number
+        paramType: query
+        required: true
+        description: skip
+      - name: limit
+        dataType: Number
+        paramType: query
+        required: true
+        description: limit
+      - name: searchProduct
+        dataType: String
+        paramType: query
+        required: false
+        description: searchProduct
+      - name: productBrand
+        dataType: String
+        paramType: query
+        required: false
+        description: productBrand
+      - name: productCategory
+        dataType: String
+        paramType: query
+        required: false
+        description: productCategory
+      - name: priceSorting
+        dataType: Number
+        paramType: query
+        required: false
+        description: priceSorting 
+      - name: isOfferAvailable
+        dataType: Boolean
+        paramType: query
+        required: false
+        description: isOfferAvailable          
+      responses:
+        200:
+         description: An array of keys         

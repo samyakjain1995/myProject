@@ -1,0 +1,150 @@
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T07:41:48.578Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T07:41:48.619Z"}
+{"level":"info","message":"{\"METHOD\":\"GET\",\"URL\":\"/documentation\",\"BODY\":{}}","timestamp":"2017-11-13T07:42:08.210Z"}
+{"level":"info","message":"{\"METHOD\":\"GET\",\"URL\":\"/favicon.ico\",\"BODY\":{}}","timestamp":"2017-11-13T07:42:08.244Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T08:04:58.064Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T08:04:58.109Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T09:36:58.032Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T09:36:58.064Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T09:41:28.891Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T09:41:28.925Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:04:23.099Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:04:23.131Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:06:46.334Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:06:46.367Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:08:19.914Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:08:19.946Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:08:43.756Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:08:43.788Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:14:42.482Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:14:42.515Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:17:08.382Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:17:08.414Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:19:19.445Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:19:19.477Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:24:32.962Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:24:32.990Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:30:24.796Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:30:24.823Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:30:52.536Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:30:52.564Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:32:49.771Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:32:49.805Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:33:34.673Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:33:34.701Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:43:54.328Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:43:54.355Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:48:12.504Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:48:12.532Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:49:33.578Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:49:33.606Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:50:38.654Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:50:38.687Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:54:36.116Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:54:36.145Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T10:59:29.145Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T10:59:29.173Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:08:55.658Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:08:55.686Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:09:52.940Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:09:52.968Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:14:17.801Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:14:17.829Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:19:01.288Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:19:01.316Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:19:59.412Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:19:59.440Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:21:30.534Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:21:30.563Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:22:27.156Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:22:27.185Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:23:55.528Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:23:55.557Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:27:44.595Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:27:44.623Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:28:05.381Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:28:05.409Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:28:35.814Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:28:35.844Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:29:17.830Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:29:17.857Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:29:35.130Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:29:35.159Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:30:18.792Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:30:18.821Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:32:15.896Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:32:15.927Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:33:05.773Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:33:05.802Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:35:43.432Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:35:43.474Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:36:44.683Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:36:44.712Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:38:14.278Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:38:14.320Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:39:01.650Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:39:01.678Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:40:09.646Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:40:09.673Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:40:47.773Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:40:47.802Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:42:53.909Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:42:53.938Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:43:46.638Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:43:46.666Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:44:30.777Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:44:30.815Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:45:51.647Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:45:51.676Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:52:10.279Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:52:10.326Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:52:57.657Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:52:57.684Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T11:58:07.956Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T11:58:07.986Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T12:00:30.521Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T12:00:30.550Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T12:01:02.545Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T12:01:02.574Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T12:43:27.829Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T12:43:27.858Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T12:53:48.425Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T12:53:48.454Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T12:59:05.119Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T12:59:05.148Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T13:00:30.643Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T13:00:30.671Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T13:01:37.149Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T13:01:37.176Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T13:07:30.269Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T13:07:30.297Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T13:34:02.061Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T13:34:02.090Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T13:36:34.661Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T13:36:34.690Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T13:58:23.305Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T13:58:23.332Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T14:02:59.767Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T14:02:59.795Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T14:37:23.239Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T14:37:23.268Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T14:38:41.410Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T14:38:41.445Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T14:52:55.419Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T14:52:55.458Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T15:37:22.641Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T15:37:22.669Z"}
+{"level":"info","message":"{\"METHOD\":\"GET\",\"URL\":\"/api/customer_get_all_products?skip=0&limit=100&isOfferAvailable=true&api_key=special-key\",\"BODY\":{}}","timestamp":"2017-11-13T15:37:41.144Z"}
+{"level":"info","message":"{\"METHOD\":\"GET\",\"URL\":\"/api/customer_get_all_products?skip=0&limit=100&api_key=special-key\",\"BODY\":{}}","timestamp":"2017-11-13T15:38:03.110Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T15:38:32.448Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T15:38:32.475Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T15:40:52.832Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T15:40:52.861Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T15:43:20.431Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T15:43:20.459Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T15:44:00.713Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T15:44:00.743Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T15:46:23.680Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T15:46:23.707Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-11-13T15:55:54.690Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-11-13T15:55:54.718Z"}

@@ -16,27 +16,27 @@ class DB {
             this.dbURL = "mongodb://localhost/newLocal";
         }
 
-        this.redisClient = "";
-        this.connectRedisDB();
+        //this.redisClient = "";
+        //this.connectRedisDB();
     }
 
-    connectRedisDB(){
+    // connectRedisDB(){
 
-        this.redisClient = redis.createClient();
+    //     this.redisClient = redis.createClient();
 
-        this.redisClient.on('connect',(err)=>{
-            if(err)
-                console.log(err);
-            else
-                console.log('Redis connected');
-        })
+    //     this.redisClient.on('connect',(err)=>{
+    //         if(err)
+    //             console.log(err);
+    //         else
+    //             console.log('Redis connected');
+    //     })
 
 
-        this.redisClient.on('error',(err)=>{
-            if(err)
-                console.log(err);
-        })
-    }
+    //     this.redisClient.on('error',(err)=>{
+    //         if(err)
+    //             console.log(err);
+    //     })
+    // }
 };
 
 module.exports = new DB();

@@ -40,7 +40,7 @@ class Server{
             swaggerURL : '/swagger',
             swaggerJSON : '/api-docs.json',
             swaggerUI : './public/swagger/',
-            apis : ['./swagger/admin.yml'],
+            apis : ['./swagger/admin.yml','./swagger/customer.yml'],
             info:{
                 title : 'ES6 Project structure',
                 name : 'Project APIs'
